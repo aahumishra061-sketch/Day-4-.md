@@ -1,7 +1,7 @@
 # Day-4-.md
  📌 Claude AI 60 Days Challenge – Chain of Thought Prompting Report Summary
 
-Day X: Exploring Chain of Thought (CoT) Prompting
+Day 4: Exploring Chain of Thought (CoT) Prompting
 
 In this challenge task, I applied Chain of Thought Prompting to create a personalized 3-Month Career Roadmap for transitioning into a Marketing Analyst/Growth Marketing role.
 
